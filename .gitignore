@@ -1,3 +1,8 @@
 *.dcm
 *.zip
 *.nii*
+logs/
+logs_resnet18_3d/
+Data/
+niis/
+metadatas/
