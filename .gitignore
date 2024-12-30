@@ -6,3 +6,5 @@ logs_resnet18_3d/
 Data/
 niis/
 metadatas/
+*.png
+*.pth
